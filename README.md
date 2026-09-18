@@ -226,31 +226,26 @@ portfolio/
 
 ### 🖥️ Portfolio – Desktop View
 
-Add your desktop portfolio screenshot here:
-
-```html
+ 
 <p align="center">
   <img src="screenshots/portfolio-desktop.png" width="850" alt="Portfolio Desktop View">
 </p>
-```
+
 
 ### 📱 Portfolio – Mobile View
 
-```html
+
 <p align="center">
   <img src="screenshots/portfolio-mobile.png" width="300" alt="Portfolio Mobile View">
 </p>
-```
+
 
 ### 🌙 Dark Mode
 
-```html
+
 <p align="center">
   <img src="screenshots/portfolio-dark-mode.png" width="850" alt="Portfolio Dark Mode">
 </p>
-```
-
-> Create a `screenshots` folder in the root directory and add the corresponding screenshots using the filenames shown above.
 
 ---
 
@@ -348,9 +343,12 @@ firebase deploy --only hosting
 
 I build responsive and user-friendly applications using Flutter and Dart, with experience working with Firebase, REST APIs, responsive UI development, and modern development tools.
 
-- **GitHub:** [bhupender1208](https://github.com/bhupender1208)
-- **LinkedIn:** [Bhupender](https://www.linkedin.com/in/bhupender-00b134282/)
-- **Email:** bhupender00012@gmail.com
+- [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhupender1208)
+ 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupender-00b134282/)
+
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupender00012@gmail.com)
+
 
 ---
 
